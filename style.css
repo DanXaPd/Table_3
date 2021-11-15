@@ -1,0 +1,17 @@
+.row {
+    background-color: red;
+}
+table{
+    background-color: lightskyblue;
+    width: 1000px;
+    height: 450px;
+}
+.hero1{
+    background-color: darkred;
+}
+.hero2{
+    background-color: crimson;
+}
+h1{
+    text-align: center;
+}
